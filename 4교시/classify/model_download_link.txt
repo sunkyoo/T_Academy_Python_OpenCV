@@ -1,0 +1,11 @@
+■ 미리 학습된 GoogLeNet 학습 모델 및 구성 파일 다운로드
+
+- 모델 파일
+  http://dl.caffe.berkeleyvision.org/bvlc_googlenet.caffemodel
+
+- 구성 파일
+  https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet 에서 deploy.prototxt 파일 다운로드
+
+- 클래스 이름 파일(1~1000 번 클래스에 대한 설명을 저장한 텍스트 파일)
+  https://github.com/opencv/opencv/blob/4.1.0/samples/data/dnn/classification_classes_ILSVRC2012.txt
+  
